@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.css-yuzg60-MuiButtonBase-root-MuiPaginationItem-root {
+  border-radius: 6px !important;
+}
+.css-yuzg60-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected {
+  background-color: #f0f8ff !important;
+  color: #409efb;
+}
+.css-15p98er-MuiChip-root{
+  background-color: #CCE6FF !important;
+  color: #0080FF !important;
+  font-size: 12px !important;
+  font-weight: 500 !important;
+}
