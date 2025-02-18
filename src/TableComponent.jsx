@@ -89,7 +89,7 @@ const TableComponent = () => {
             </Box>
           );
         } else if (col.accessorKey === "status") {
-          return <Chip label={value} color="primary" size="small" />;
+          return <Chip label={value} sx={visibleTeamChipStyles[0]} size="small" />;
         } else if (col.accessorKey === "teams") {
           const teams = value.split(", ");
           const maxVisibleTeams = 3;
