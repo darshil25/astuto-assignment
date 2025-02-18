@@ -4,10 +4,10 @@
   padding: 2rem;
   text-align: center;
 }
-.css-yuzg60-MuiButtonBase-root-MuiPaginationItem-root {
+.custom-pagination .css-yuzg60-MuiButtonBase-root-MuiPaginationItem-root {
   border-radius: 6px !important;
 }
-.css-yuzg60-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected {
+.custom-pagination .css-yuzg60-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected {
   background-color: #f0f8ff !important;
   color: #409efb;
 }

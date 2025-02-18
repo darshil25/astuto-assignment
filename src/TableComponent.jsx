@@ -170,6 +170,7 @@ const TableComponent = () => {
       <MRT_TablePagination
         sx={{ display: 'flex', justifyContent: 'center', width: '100%' }}
         table={table}
+        className="custom-pagination"
       />
     </Stack>
   );
